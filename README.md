@@ -10,3 +10,5 @@ O script SQL é o Agromercantil.sql para criar as tabelas e carregar os dados.
 O arquivo case técnico respostas possui as respostas das perguntas do case.
 
 Para rodar a aplicação do Streamlit deve-se ter instalado as seguintes bibliotecas: streamlit pandas psycopg2 matplotlib seaborn plotly
+
+A resposta do exercício sobre pandas é o arquivo Pandas.ipynb
